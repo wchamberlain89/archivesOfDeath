@@ -38,5 +38,5 @@
 ## Component Structure
 ![alt text](readmeImgs/1.jpg)
 ![alt text](readmeImgs/2.jpg)
-![FigmaSketches](readmeImgs/5.png)
-![Figma Sketches](readmeImgs/6.png)
+![FigmaSketches](readmeImgs/5.PNG)
+![Figma Sketches](readmeImgs/6.PNG)
